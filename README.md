@@ -39,11 +39,11 @@
 
 
 ##
-
+  <!--
   <div style="display: inline_block"><br/>
     <img align="center" alt="Logo" height="150" width="150" src="https://cdn.discordapp.com/attachments/656658383889235968/935593547372060712/01_new.png">
   </div>
-
+  -->
 ## Social Media
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cluyverth/)
