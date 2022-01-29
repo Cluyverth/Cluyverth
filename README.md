@@ -59,6 +59,7 @@
   <div id="my-knowledge" align="left">
       <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" width="50"/>
       <img alt="LabView" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" height="50" width="50"/>
+      <img alt="CAD" src="https://cdn.discordapp.com/attachments/936646713345720400/937026534726836264/Autocad_23637.png" height="50" width="50"/>
       <img alt="RaspyBerryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50"/>
       <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" width="50"/>
       <img alt="AfterEffects" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" width="50"/>
