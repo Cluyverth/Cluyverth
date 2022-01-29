@@ -21,6 +21,15 @@
   <a href="https://Instagram.com/Cluyverth">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCozY7eZq16qj7IXr7-gxvRA">
+    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:contatonot3official@gmail.com">
+    <img alt="Gmail1" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:contatocluyverth@gmail.com">
+    <img alt="Gmail2" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -34,8 +43,7 @@
 ---
 
 # About Me
-  Hi, I'm Cluyverth W. and I'm a control and automation engineering student at the University of UniFBV and a electronic engineering student at the University of UFRPE-UACSA.
-  I have experience programming microcontrollers using embedded C, most of the projects I will upload here in my Github repositories. 
+  Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects that I make.
 
 ---
 
@@ -66,7 +74,6 @@
       <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
       <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50">
       <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
-      <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/>
   </div>
   
 <!--
