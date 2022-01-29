@@ -21,9 +21,6 @@
   <a href="mailto:contatonot3official@gmail.com">
     <img alt="Gmail1" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:contatocluyverth@gmail.com">
-    <img alt="Gmail2" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 ---
