@@ -34,16 +34,25 @@
 
 ---
 
+# About Me
+  Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects that I make.
+
+  ## My Soft Skills
+
+  - 🌱 Resilience 
+  - 🦾 Determination
+  - 🧠 Emotional intelligence
+  - 🪢 Versatility
+  - 💡 Creativity
+  - 💧 Adaptability
+
+
+---
 # My Statistics
   <div id="statistics">
     <img src="https://github-readme-stats.vercel.app/api?username=Cluyverth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluyverth&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
-
----
-
-# About Me
-  Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects that I make. 
 
 ---
 
@@ -53,7 +62,7 @@
       <img alt="Embedded C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="50" width="50"/>
       <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50">
       <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>
-  </div>
+  </div></br>
   
   ## Softwares
   <div id="my-knowledge" align="left">
@@ -74,7 +83,7 @@
       <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
       <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50">
       <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
-  </div>
+  </div></br>
   
 <!--
   ## Softwares
