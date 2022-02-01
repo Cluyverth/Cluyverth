@@ -35,7 +35,7 @@
   - 🧠 Emotional intelligence
   - 🪢 Versatility
   - 💡 Creativity
-  - 💧 Adaptability
+  - 💧 Adaptability-
 
 
 ---
