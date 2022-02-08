@@ -1,5 +1,5 @@
 <div id="header" align="center"></br>
-  <img src="https://cdn.discordapp.com/attachments/936646713345720400/937024989335523399/Banner.png"/>
+  <img src="https://cdn.discordapp.com/attachments/936646713345720400/940705496246124584/Banner.png"/>
 </div>
 
 <div id="badges" align="left">
@@ -28,14 +28,14 @@
 # About Me
   Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects that I make.
 
-  ## My Soft Skills
+  ## • My Soft Skills
 
-  - 🌱 Resilience 
-  - 🦾 Determination
-  - 🧠 Emotional intelligence
-  - 🪢 Versatility
-  - 💡 Creativity
-  - 💧 Adaptability
+   🌱 Resilience 
+  | 🦾 Determination
+  | 🧠 Emotional intelligence
+  | 🪢 Versatility
+  | 💡 Creativity
+  | 💧 Adaptability
 
 
 ---
@@ -48,48 +48,24 @@
 ---
 
 # My Knowledge
-  ## Languages 
+  ## • Languages 
   <div id="my-knowledge" align="left">
       <img alt="Embedded C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="50" width="50"/>
       <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50">
       <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>
   </div></br>
   
-  ## Softwares
+  ## • Softwares
   <div id="my-knowledge" align="left">
-      <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" width="50"/>
       <img alt="CAD" src="https://cdn.discordapp.com/attachments/936646713345720400/937026534726836264/Autocad_23637.png" height="50" width="50"/>
       <img alt="LabView" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" height="50" width="50"/>
-      <img alt="RaspyBerryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50"/>
+      <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" width="50"/>
       <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" width="50"/>
       <img alt="AfterEffects" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" width="50"/>
       <img alt="Premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" width="50"/>
       <img alt="Ilustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" width="50"/>
   </div>
   
----
-
-# What I'm Learning
-  ## Languages 
-  <div id="Learning-Languages" align="left">
-      <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
-      <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50">
-      <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
-  </div></br>
-  
-<!--
-  ## Softwares
-  <div id="Learning-Softwares" align="left">
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-      <img alt="" src="" height="50" width="50"/>
-  </div>
--->
-
 ---
 
 ![Snake animation](https://github.com/Cluyverth/Cluyverth/blob/output/github-contribution-grid-snake.svg)
