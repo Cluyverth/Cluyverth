@@ -26,7 +26,7 @@
 ---
 
 # About Me
-  Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects that I make.
+  Hi, I'm Cluyverth W. I'm an engineering student at the UFRPE and UniFBV. I have experience programming microcontrollers using embedded C, and I will upload in my Github all old and future projects.
 
   ## • My Soft Skills
 
