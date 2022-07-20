@@ -15,7 +15,7 @@
   <a href="https://twitter.com/Cluyverth">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     
-  [//]: # " Isso é um comentário
+// ( Isso é um comentário
     
     </a> 
       <a href="https://www.youtube.com/channel/UCozY7eZq16qj7IXr7-gxvRA">
@@ -25,7 +25,7 @@
         <img alt="Gmail1" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   
-  "
+  )
   
 </div>
 
