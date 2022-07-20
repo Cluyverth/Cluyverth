@@ -1,5 +1,5 @@
 <div id="header" align="center"></br>
-  <img src="https://cdn.discordapp.com/attachments/936646713345720400/949130748953235466/Simple_Full_Photo_Film_Production_LinkedIn_Banner_1.png"/>
+  <img src="https://cdn.discordapp.com/attachments/656658383889235968/999410411369668758/Banner.png"/>
 </div>
 
 <div id="badges" align="left">
