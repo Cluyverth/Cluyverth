@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center">
   <img alt="Banner"src="https://cdn.discordapp.com/attachments/656658383889235968/1070889743082082314/wallpaperflare-cropped.jpg">
   <a href="https://www.linkedin.com/in/cluyverth/">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.cluyverth.com">
     <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
@@ -16,7 +16,7 @@
 ## About Me
 
 
-  Hi, I'm **Cluyverth William**. Bachelor in **control and automation engineering** and passionate about technology. Lately studying **Python** and **Golang** in order to be **Full-Stack Engineering**. I currently live in **Recife, PE, Brazil** and when I'm not studying, I'm probably streaming a game.
+  Hi, I'm **Cluyverth William**. Bachelor in **control and automation engineering** and passionate about technology. Lately studying **Python** and **Golang** in order to becoming an **Full-Stack Engineering**. I currently live in **Recife, PE, Brazil** and when I'm not studying, I'm probably streaming.
 
   > "Luck is what happens when preparation meets opportunity" - Seneca
 
