@@ -58,9 +58,7 @@
 
 ---
 
-![Snake animation](https://github.com/Cluyverth/Cluyverth/blob/output/github-contribution-grid-snake.svg)
-
----
+<!--![Snake animation](https://github.com/Cluyverth/Cluyverth/blob/output/github-contribution-grid-snake.svg)-->
 
 <p align="center"> © 2022 Cluyverth William, all rights reserved. Made with ❤️ and ☕.</p>
 
