@@ -1,5 +1,6 @@
-<div style="display: inline_block" align="center">
-  <img alt="Banner"src="Cluyverth W..png">
+
+<div style="display: inline_block; text-align: left;">
+  <img alt="Banner" src="Cluyverth W..png">
   <a href="https://www.linkedin.com/in/cluyverth/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,7 +17,7 @@
 ## About Me
 
 
-  Hi, I'm **Cluyverth William**. Bachelor in **control and automation engineering** and passionate about technology. Lately studying **Python** and **Golang** in order to becoming an **Full-Stack Engineering**. I currently live in **Recife, PE, Brazil** and when I'm not studying, I'm probably streaming.
+  Hi, I'm **Cluyverth William**. Bachelor in **control and automation engineering** and passionate about technology. Lately studying **C#** and **Golang** in order to becoming an **Full-Stack Engineering**. I currently live in **Recife, PE, Brazil** and when I'm not studying, I'm probably streaming.
 
   > "Luck is what happens when preparation meets opportunity" - Seneca
 
@@ -46,7 +47,7 @@
         <img alt="Badge of C Language" src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white"/>
         <img alt="Badge of C++ Language" src="https://img.shields.io/badge/C%2B%2B-A81D33?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
         <img alt="Badge of Python Language" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-        <img alt="Badge of Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-A81D33?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        <img alt="Badge of C#" src="https://img.shields.io/badge/C%23-A81D33?style=for-the-badge&logo=c-sharp&logoColor=white"/>
         <!--- Badges de Coisas em Estudo -->
         <!--<img alt="Badge of PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white"/>-->
         <!--<img alt="Badge of Apache Beam" src="https://img.shields.io/badge/Apache_Beam-A81D33?style=for-the-badge&logo=apache&logoColor=white"/>-->
