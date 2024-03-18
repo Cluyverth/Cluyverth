@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-  <img alt="Banner"src="https://cdn.discordapp.com/attachments/656658383889235968/1070889743082082314/wallpaperflare-cropped.jpg">
+  <img alt="Banner"src="Cluyverth W..png">
   <a href="https://www.linkedin.com/in/cluyverth/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
