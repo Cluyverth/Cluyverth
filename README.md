@@ -2,7 +2,7 @@
 
 Full-Stack Developer with experience in C#, .NET, Python, and JavaScript/TypeScript. I'm currently working as a Product Owner, pursuing a specialization in Software Engineering, and always interested in learning.
 
-    > "Luck is what happens when preparation meets opportunity" - Seneca
+  > "Luck is what happens when preparation meets opportunity" - Seneca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cluyverth/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A81D33?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://cluyverth.com)
